@@ -1,0 +1,8 @@
+id=1;student=Alice;course=CSE11;assignment=PA1;grade=85
+id=2;student=Alice;course=CSE11;assignment=PA2;grade=92
+id=3;student=Alice;course=CSE12;assignment=PA1;grade=88
+id=4;student=Bob;course=CSE11;assignment=PA1;grade=78
+id=5;student=Bob;course=CSE11;assignment=PA2;grade=65
+id=6;student=Carol;course=CSE11;assignment=PA1;grade=95
+id=7;student=Carol;course=CSE12;assignment=PA1;grade=100
+id=8;student=David;course=CSE12;assignment=PA1;grade=72
